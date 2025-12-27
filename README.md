@@ -108,4 +108,4 @@ Future improvements could include:
 - NeuroKit2
 - scikit-learn
 
-> *ChatGPT was used to assist with report structuring and code refactoring.*
+>  ChatGPT was used to assist with report structuring and organizing the code for clarity and readability; all data processing, feature extraction, and modeling were performed by the author.*
